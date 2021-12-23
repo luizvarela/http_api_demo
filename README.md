@@ -1,5 +1,11 @@
 This Repo was cloned from https://github.com/novaframework/http_api_demo this is an atempt to config an erlang app to be deployed using Docker.
 
+## Useful Links:
+
+- https://adoptingerlang.org/
+- https://github.com/erlang/docker-erlang-example
+- https://github.com/adoptingerlang/service_discovery
+
 # HTTP API Server #
 
 A basic Nova HTTP API server demonstrating:
